@@ -1,0 +1,2 @@
+module ForrentsHelper
+end
